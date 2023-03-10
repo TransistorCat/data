@@ -1,17 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T00:16:16.519Z" agent="5.0 (Windows)" etag="S2_hD-JuAVJr0Lpgpyg-" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-10T00:19:50.752Z" agent="5.0 (Windows)" etag="kRqY7UW2i7Cer2B0HhL5" version="20.8.23" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="894" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fbuWgaFq8NCV77EN-9JO-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.889;entryY=-0.074;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fbuWgaFq8NCV77EN-9JO-1" target="fbuWgaFq8NCV77EN-9JO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fbuWgaFq8NCV77EN-9JO-17" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fbuWgaFq8NCV77EN-9JO-1" target="fbuWgaFq8NCV77EN-9JO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fbuWgaFq8NCV77EN-9JO-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fbuWgaFq8NCV77EN-9JO-1" target="fbuWgaFq8NCV77EN-9JO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fbuWgaFq8NCV77EN-9JO-1" value="工资支付系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fbuWgaFq8NCV77EN-9JO-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fbuWgaFq8NCV77EN-9JO-2" target="fbuWgaFq8NCV77EN-9JO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fbuWgaFq8NCV77EN-9JO-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fbuWgaFq8NCV77EN-9JO-2" target="fbuWgaFq8NCV77EN-9JO-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fbuWgaFq8NCV77EN-9JO-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fbuWgaFq8NCV77EN-9JO-2" target="fbuWgaFq8NCV77EN-9JO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fbuWgaFq8NCV77EN-9JO-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fbuWgaFq8NCV77EN-9JO-2" target="fbuWgaFq8NCV77EN-9JO-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fbuWgaFq8NCV77EN-9JO-2" value="加工事务数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fbuWgaFq8NCV77EN-9JO-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fbuWgaFq8NCV77EN-9JO-3" target="fbuWgaFq8NCV77EN-9JO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fbuWgaFq8NCV77EN-9JO-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fbuWgaFq8NCV77EN-9JO-3" target="fbuWgaFq8NCV77EN-9JO-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fbuWgaFq8NCV77EN-9JO-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fbuWgaFq8NCV77EN-9JO-3" target="fbuWgaFq8NCV77EN-9JO-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fbuWgaFq8NCV77EN-9JO-3" value="输出数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fbuWgaFq8NCV77EN-9JO-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fbuWgaFq8NCV77EN-9JO-4" target="fbuWgaFq8NCV77EN-9JO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fbuWgaFq8NCV77EN-9JO-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fbuWgaFq8NCV77EN-9JO-4" target="fbuWgaFq8NCV77EN-9JO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fbuWgaFq8NCV77EN-9JO-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fbuWgaFq8NCV77EN-9JO-4" target="fbuWgaFq8NCV77EN-9JO-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fbuWgaFq8NCV77EN-9JO-4" value="载入数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="280" width="120" height="60" as="geometry" />
@@ -26,16 +65,25 @@
           <mxGeometry x="250" y="460" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="fbuWgaFq8NCV77EN-9JO-8" value="审核数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="440" width="50" height="250" as="geometry" />
+          <mxGeometry x="320" y="450" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="fbuWgaFq8NCV77EN-9JO-9" value="计算正常工资" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="450" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="fbuWgaFq8NCV77EN-9JO-10" value="计算超时工资" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="440" width="50" height="250" as="geometry" />
+          <mxGeometry x="470" y="450" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="fbuWgaFq8NCV77EN-9JO-11" value="更新年度数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="440" width="50" height="250" as="geometry" />
+          <mxGeometry x="547" y="450" width="50" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="fbuWgaFq8NCV77EN-9JO-13" value="输出工资表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="637" y="450" width="50" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="fbuWgaFq8NCV77EN-9JO-14" value="输出工资明细" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="450" width="50" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="fbuWgaFq8NCV77EN-9JO-15" value="输出报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="777" y="450" width="50" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
